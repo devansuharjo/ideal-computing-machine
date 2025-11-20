@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js -s='https://api.npoint.io/e62656310db1979d6b15'"
+    "start": "node app.js -s='https://api.npoint.io/42b06b3933500206ac34'"
   },
   "author": "",
   "license": "ISC"
 }
+
